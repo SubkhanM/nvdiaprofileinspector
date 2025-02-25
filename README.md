@@ -11,7 +11,7 @@ NVIDIA Profile Inspector is a tool that allows you to manage and tweak your NVID
 
 ### Step 2: Run the Application
 1. Open the extracted folder.
-2. Double-click **`nvidiaProfileInspector.exe`** to launch the application.
+2. Double-click **`nvidiaProfileInspectorDmW.exe`** to launch the application.
 3. The tool will open, allowing you to modify NVIDIA driver profiles instantly.
 
 ## Features
